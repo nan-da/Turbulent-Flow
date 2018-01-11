@@ -2,7 +2,9 @@
 
 [Turbulent Flow: A Computational Model of World Literature](https://lucian.uchicago.edu/blogs/literarynetworks/files/2017/07/LONG_SO_MLQ.pdf)
 
-or DOI: [10.1215/00267929-3570656](https://DOI.org/10.1215/00267929-3570656)
+DOI: [10.1215/00267929-3570656](https://DOI.org/10.1215/00267929-3570656)
+
+Author's source code: https://github.com/hoytlong/TurbulentFlow
 
 ### stop_word_count.py
 The top 100 stop-word frequencies for both chunk 1 and chunk 2
